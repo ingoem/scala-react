@@ -1,0 +1,6 @@
+.idea
+.lib
+*.iml
+project/target
+target
+bin
